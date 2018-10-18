@@ -1,0 +1,19 @@
+
+Schematics:
+-Pull down & down resistors need to be added for rs485/422 . (750ohm)
+-R39, R44 removed. Caused unwanted echoing in serial.
+-10K pull-up for serial1 RTS. Connect between J43 and 12V.
+     (RS485 transmit need to be non-active when serial1 cable disconnected.)
+
+
+Layout:
+-CONN4 and U15 are in collision. CONN4 needs manual cut to fit.
+-CONN13 and R32 are in collision. CONN13 needs manual cut to fit.
+-COINCELL too close to connector EXT1 and EXT2.
+-COINCELL at front of J37.
+-CONN6 holes loose
+-CONN20 holes loose
+-EXT2 holes loose
+-EXT1 holes loose
+-CONN17 holes loose
+-M1 holes loose

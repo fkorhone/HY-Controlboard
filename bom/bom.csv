@@ -1,0 +1,184 @@
+refdes	value	footprint	farnell	qty/1	model-name	
+J49	?	smdjmp	unknown	unknown	unknown	
+R43	120R	RTH300mil	9342419	1	MF12 10K	
+J44	?	smdjmp	unknown	unknown	unknown	
+J45	?	smdjmp	unknown	unknown	unknown	
+J46	?	smdjmp	unknown	unknown	unknown	
+CONN17	unknown	HEADER10_2	1593442
+	unknown	2213S-10G
+	
+J37	?	smdjmp	unknown	unknown	unknown	
+D7	unknown	DTH300mil	unknown	unknown	unknown	
+R48	40K	RTH300mil	9342419	1	MF12 10K	
+R47	2K	RTH300mil	9342419	1	MF12 10K	
+C1	100n	CTH200mil	1215508	1	BFC237011104	
+C8	100n	CTH200mil	1215508	1	BFC237011104	
+C7	100n	CTH200mil	1215508	1	BFC237011104	
+C5	100n	CTH200mil	1215508	1	BFC237011104	
+C6	100n	CTH200mil	1215508	1	BFC237011104	
+232_D9M2	-	D9ML	1099289 	1	8LCM009P-301B-XX	
+232_D9M1	-	D9ML	1099289 	1	8LCM009P-301B-XX	
+U1	-	DIP16	9605495	1	ADM202EANZ	
+J43	?	smdjmp	unknown	unknown	unknown	
+J40	?	smdjmp	unknown	unknown	unknown	
+J41	?	smdjmp	unknown	unknown	unknown	
+J42	?	smdjmp	unknown	unknown	unknown	
+232_D9F1	unknown	D9FL	1099294	1	8LCM009S-304B-XX	
+R41	10k	RTH300mil	9342419	1	MF12 10K	
+R39	10k	RTH300mil	9342419	1	MF12 10K	
+R44	10k	RTH300mil	9342419	1	MF12 10K	
+CONN19	-	SIP2	unknown	0	unknown	
+J39	-	SIP5	unknown	unknown	unknown	
+J38	-	SIP5	unknown	unknown	unknown	
+CONN18	-	SIP5	unknown	0	unknown	
+U17	unknown	DIP14	1739924	1	CD74HC08E	
+J34	?	smdjmp	unknown	unknown	unknown	
+J33	?	smdjmp	unknown	unknown	unknown	
+J36	?	smdjmp	unknown	unknown	unknown	
+J35	?	smdjmp	unknown	unknown	unknown	
+U16	unknown	DIP14	2460682	1	ADM489ANZ	
+J5	?	smdjmp	unknown	unknown	unknown	
+J4	?	smdjmp	unknown	unknown	unknown	
+J7	?	smdjmp	unknown	unknown	unknown	
+J9	?	smdjmp	unknown	unknown	unknown	
+J2	?	smdjmp	unknown	unknown	unknown	
+J1	?	smdjmp	unknown	unknown	unknown	
+C2	100n	CTH200mil	1215508	1	BFC237011104	
+C15	100n	CTH200mil	1215508	1	BFC237011104	
+C23	100n	CTH200mil	1215508	1	BFC237011104	
+C16	100n	CTH200mil	1215508	1	BFC237011104	
+C19	100n	CTH200mil	1215508	1	BFC237011104	
+U2	-	DIP16	9605495	1	ADM202EANZ	
+CONN20	unknown	TERM2_100mil	2007967	unknown	MC000001	
+CONN6	unknown	TERM3_100mil	2007968	unknown	MC000002	
+CONN11	unknown	TERM8C_100mil	2007972	unknown	MC000006	
+CONN9	unknown	TERM10C_100mil	2007973	unknown	MC000007	
+CONN12	-	power2_200mil	1793049	1	MFKDSP/ 2-5,08	
+R45	1M	RTH300mil	9342435	1	MF12 1M	
+M2	unknown	traco_tmr	1284245	unknown	TMR 6-2411WI	
+F1	200mA	RTH300mil	1861122	1	MC36187	
+C17	330n	CTH200mil	1215512	1	BFC237011334 	
+C18	100n	CTH200mil	1215508	1	BFC237011104	
+U4	10V	78XX_TO220	2451062	1	LM7810ACT	
+M3	TMH0512S	traco_tmh	1007552	1	TMH0512S	
+CONN1	unknown	TERM6C_100mil	2007971	unknown	MC000005	
+CONN3	unknown	TERM8C_100mil	2007972	unknown	MC000006	
+CONN10	unknown	TERM8C_100mil	2007972	unknown	MC000006	
+R13	34K	RTH300mil	1083419	1	YR1B34KCC	
+R12	34K	RTH300mil	1083419	1	YR1B34KCC	
+R11	34K	RTH300mil	1083419	1	YR1B34KCC	
+R9	34K	RTH300mil	1083419	1	YR1B34KCC	
+R8	34K	RTH300mil	1083419	1	YR1B34KCC	
+R7	66K5	RTH300mil	1083450	1	YR1B66K5CC	
+C14	-	CTH200mil	-	0	unknown	
+C13	100n	CTH200mil	1215508	1	BFC237011104	
+C12	100n	CTH200mil	1215508	1	BFC237011104	
+C11	100n	CTH200mil	1215508	1	BFC237011104	
+C10	100n	CTH200mil	1215508	1	BFC237011104	
+C9	100n	CTH200mil	1215508	1	BFC237011104	
+R6	-	RTH300mil	-	0	unknown	
+R5	-	RTH300mil	-	0	unknown	
+R4	66K5	RTH300mil	1083450	1	YR1B66K5CC	
+R3	66K5	RTH300mil	1083450	1	YR1B66K5CC	
+R2	66K5	RTH300mil	1083450	1	YR1B66K5CC	
+R1	34K	RTH300mil	1083419	1	YR1B34KCC	
+R23	66K5	RTH300mil	1083450	1	YR1B66K5CC	
+R22	66K5	RTH300mil	1083450	1	YR1B66K5CC	
+R19	66K5	RTH300mil	1083450	1	YR1B66K5CC	
+R18	66K5	RTH300mil	1083450	1	YR1B66K5CC	
+R17	66K5	RTH300mil	1083450	1	YR1B66K5CC	
+R16	?	RTH300mil	unknown	0	unknown	
+R15	?	RTH300mil	unknown	0	unknown	
+R14	?	RTH300mil	unknown	0	unknown	
+R31	66K5	RTH300mil	1083450	1	YR1B66K5CC	
+R30	66K5	RTH300mil	1083450	1	YR1B66K5CC	
+R29	34K	RTH300mil	1083419	1	YR1B34KCC	
+R28	34K	RTH300mil	1083419	1	YR1B34KCC	
+R27	34K	RTH300mil	1083419	1	YR1B34KCC	
+R26	34K	RTH300mil	1083419	1	YR1B34KCC	
+R25	34K	RTH300mil	1083419	1	YR1B34KCC	
+R24	34K	RTH300mil	1083419	1	YR1B34KCC	
+C20	100n	CTH200mil	1215508	1	BFC237011104	
+C28	100n	CTH200mil	1215508	1	BFC237011104	
+C27	100n	CTH200mil	1215508	1	BFC237011104	
+C26	100n	CTH200mil	1215508	1	BFC237011104	
+C25	100n	CTH200mil	1215508	1	BFC237011104	
+C24	100n	CTH200mil	1215508	1	BFC237011104	
+C22	100n	CTH200mil	1215508	1	BFC237011104	
+C21	100n	CTH200mil	1215508	1	BFC237011104	
+U5	mux	DIP16	2334931	0	CD4051BM96 	
+CONN16	unknown	TERM4_100mil	2007969	unknown	MC000003	
+CONN14	unknown	TERM4_100mil	2007969	unknown	MC000003	
+CONN15	unknown	TERM4C_100mil	2007969	unknown	MC000003	
+J31	?	smdjmp	unknown	unknown	unknown	
+J32	?	smdjmp	unknown	unknown	unknown	
+R42	330R	RTH300mil	9343032	1	MF12 330R	
+U15	unknown	DIP8	2083108	1	FOD3182	
+J29	?	smdjmp	unknown	unknown	unknown	
+J30	?	smdjmp	unknown	unknown	unknown	
+R40	330R	RTH300mil	9343032	1	MF12 330R	
+U14	unknown	DIP8	2083108	1	FOD3182	
+J27	?	smdjmp	unknown	unknown	unknown	
+J28	?	smdjmp	unknown	unknown	unknown	
+R38	330R	RTH300mil	9343032	1	MF12 330R	
+U13	unknown	DIP8	2083108	1	FOD3182	
+J25	?	smdjmp	unknown	unknown	unknown	
+J26	?	smdjmp	unknown	unknown	unknown	
+R37	330R	RTH300mil	9343032	1	MF12 330R	
+U12	unknown	DIP8	2083108	unknown	FOD3182	
+CONN13	unknown	TERM5_100mil	2007970	unknown	MC000004	
+CONN4	unknown	TERM5_100mil	2007970	unknown	MC000004	
+CONN5	unknown	TERM5C_100mil	2007970	unknown	MC000004	
+D5	unknown	DTH300mil	2723902	1	1N4003G	
+J24	?	smdjmp	unknown	unknown	unknown	
+J22	?	smdjmp	unknown	unknown	unknown	
+R36	330R	RTH300mil	9343032	1	MF12 330R	
+U11	unknown	DIP6	1708441	unknown	ASSR-1611-001E 	
+D4	unknown	DTH300mil	2723902	1	1N4003G	
+J23	?	smdjmp	unknown	unknown	unknown	
+J20	?	smdjmp	unknown	unknown	unknown	
+R35	330R	RTH300mil	9343032	1	MF12 330R	
+U10	unknown	DIP6	1708441	unknown	ASSR-1611-001E 	
+D3	unknown	DTH300mil	2723902	1	1N4003G	
+J21	?	smdjmp	unknown	unknown	unknown	
+J18	?	smdjmp	unknown	unknown	unknown	
+R34	330R	RTH300mil	9343032	1	MF12 330R	
+U9	unknown	DIP6	1708441	unknown	ASSR-1611-001E 	
+D2	unknown	DTH300mil	2723902	1	1N4003G	
+J19	?	smdjmp	unknown	unknown	unknown	
+J13	?	smdjmp	unknown	unknown	unknown	
+R33	330R	RTH300mil	9343032	1	MF12 330R	
+U8	unknown	DIP6	1708441	unknown	ASSR-1611-001E 	
+D1	unknown	DTH300mil	2723902	1	1N4003G	
+J14	?	smdjmp	unknown	unknown	unknown	
+J3	?	smdjmp	unknown	unknown	unknown	
+R32	330R	RTH300mil	9343032	1	MF12 330R	
+U7	unknown	DIP6	1708441	unknown	ASSR-1611-001E 	
+R46	10K	RTH300mil	-	0	unknown	
+R49	10K	RTH300mil	-	0	unknown	
+EXT2	unknown	HEADER10_2	1593442
+	1	2213S-10G
+	
+EXT1	unknown	HEADER26_2	1622415	1	77313-118-26LF	
+U18	unknown	DIP14	1739569 	unknown	CD74HC125E	
+COUNTER1	unknown	TERM3_100mil	2007968	unknown	MC000002	
+CONN7	unknown	TERM6C_100mil	2007971	unknown	MC000005	
+U6	unknown	DIP16	9591664	unknown	SN74HC595N	
+J17	?	smdjmp	unknown	unknown	unknown	
+J16	?	smdjmp	unknown	unknown	unknown	
+J15	?	smdjmp	unknown	unknown	unknown	
+J12	?	smdjmp	unknown	unknown	unknown	
+J11	?	smdjmp	unknown	unknown	unknown	
+J10	?	smdjmp	unknown	unknown	unknown	
+J8	?	smdjmp	unknown	unknown	unknown	
+J6	?	smdjmp	unknown	unknown	unknown	
+COINCELL	20mm	coincell	2064715 	1	CH25-2032LF	
+R21	15K	RTH200mil	9341331	1	MF25 15K	
+R20	15K	RTH200mil	9341331	1	MF25 15K	
+USBDEVICE1	-	USB_B	1696537	1	MC32596	
+USBHOST1	-	USB_A	1696534	0	unknown	
+CONN8	-	magjack	1901301	1	0813-1X1T-57-F	
+R10	-	RTH300mil	-	0	unknown	
+SD_SPI1	SDAMB-01215BT00 	SD_SMD	9186140 	1	SDAMB-01215BT00 	
+CONN2	-	TERM6_100mil	2007971	1	MC000005	
+M1	unknown	MBED	1761179	1	mbed_lpc1768	

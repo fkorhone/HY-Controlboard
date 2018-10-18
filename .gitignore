@@ -1,0 +1,8 @@
+*.swp
+*.pdf#
+*.odt#
+#untitled_1.sch#
+*.sch#
+*.sch~
+*.pcb-
+/*.cmd

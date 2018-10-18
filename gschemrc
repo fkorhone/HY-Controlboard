@@ -1,0 +1,10 @@
+(magnetic-net-mode "disabled")
+(logging-destination "both")
+
+(source-library ".")
+
+(define default-titleblock "title-bordered-A3.sym")
+
+(log-window "later")
+;;(embed-components "enabled")
+(undo-type "memory")

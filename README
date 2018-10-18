@@ -1,0 +1,25 @@
+2014 Frans Korhonen
+README for easy geda bats.
+Tools for designing printed circuit boards.
+
+Run bats:
+cmd.bat - command prompt with geda tools in path variables
+X.bat - updates X.pcb from X.sch (Uses bat basename as filename). Follow the instructions on the appearing command window.
+gattrib.bat - starts gattrib schematic attribute editor. Handy for setting component footprints and adding supplier references etc.
+gerbv.bat - Gerber viewer. View production gerber layers.
+gschem.bat - Schematic editor. Adds project related component symbols from "components/" directory.
+pcb.bat - Layout editor. finds project related footprints from "packages/" directory. 
+bom.bat - create bill of materials from schematics defined inside the bat.
+
+directories:
+components/ - project component symbol location.
+packages - project fooprint location.
+gerber/ - directory for pcb production gerbers.
+src/ - firmware source code.
+bom/ - Directory for bill of materials
+
+other files:
+gafrc - Required for project components seen properly.
+round_mm_vendor - Vendor drill mapping file for PCB. mm drills.
+attribs - fields that will be seen in bill of materials
+
